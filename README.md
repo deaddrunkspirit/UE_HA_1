@@ -4,7 +4,7 @@
 
 ***Name:*** UE_HA_1
 
-***Description:*** This is a 3d game with procedural level generation
+***Description:*** 3d game with procedural level generation
 
 ***Plot:*** no plot
 
